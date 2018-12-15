@@ -8,7 +8,7 @@
 <!-- versionCode is optional and Android only -->
 
   <name>Farwar</name>
-
+<icon src="icon.jpg" />
   <description>
    Alpha 0.1
   </description>
